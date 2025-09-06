@@ -182,7 +182,7 @@
     "configured": "設定済み",
     "no security keys": "セキュリティキーなし",
     "not configured": "設定未完了",
-    "no fallback sms number": "代理SMS番号なし",
+    "no fallback sms number": "電話番号なし",
     "no recovery tokens": "リカバリートークンなし",
 
     "__comments-6": "User home", 
@@ -205,7 +205,7 @@
     "your stars": "あなたのお気に入り",
     "your gists": "あなたのスニペット",
     "upgrade": "アップグレード",
-    "feature preview": "機能",
+    "feature preview": "試験的機能",
     "sign out": "サインアウト",
     "dashboard": "ダッシュボード",
     "pull requests": "プルリクエスト",
@@ -231,7 +231,7 @@
     "create an organization": "組織を作成",
     "explore more →": "もっと知る →",
     "show more": "もっと見る",
-    "working with a team?": "チームで活動する？",
+    "working with a team?": "チームで活動しますか？",
     "github is built for collaboration. set up an organization to improve the way your team works together, and get access to more features.": "github is built for collaboration. set up an organization to improve the way your team works together, and get access to more features.",
 
     "__comments-7": "Search", 
