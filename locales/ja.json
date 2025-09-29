@@ -345,7 +345,7 @@
     "all scheduled workflows will stop running.": "スケジュールされたワークフローは全て中止されます。",
     "security features will be unavailable:": "安全機能は利用できなくなります：",
     "code scanning": "コードの検査",
-    "before you archive, please consider:": アーカイブ化する前に、以下の点を検討してください。:",
+    "before you archive, please consider:": "アーカイブ化する前に、以下を検討してください。:",
     "updating any repository settings": "必要なリポジトリ設定を更新する",
     "closing all open issues and pull requests": "開かれているイシューとプルリクエストをすべて閉じる",
     "making a note in your readme": "READMEに注記を加える",
